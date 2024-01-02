@@ -1,9 +1,1 @@
 commit 1
-<<<<<<< HEAD
-
-commit 2
-
-commit 3
-
-=======
->>>>>>> parent of f76db5c (commit 2)
